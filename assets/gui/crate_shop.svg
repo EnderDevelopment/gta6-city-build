@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="64" viewBox="0 0 128 64">
+  <!-- Crate Shop GUI background -->
+  <rect x="0" y="0" width="128" height="64" fill="#1a1a2e"/>
+  <!-- Title bar -->
+  <rect x="0" y="0" width="128" height="14" fill="#2a2a4e"/>
+  <text x="64" y="11" font-family="Arial, sans-serif" font-size="11" fill="#ffd700" text-anchor="middle" font-weight="bold">CRATE SHOP</text>
+  <!-- Decorative line -->
+  <rect x="8" y="16" width="112" height="2" fill="#ffd700" opacity="0.6"/>
+  <!-- Slot outlines -->
+  <rect x="28" y="24" width="20" height="20" fill="#2a1a0a" stroke="#d4a84a" stroke-width="1"/>
+  <rect x="54" y="24" width="20" height="20" fill="#2a1a0a" stroke="#c8c8c8" stroke-width="1"/>
+  <rect x="80" y="24" width="20" height="20" fill="#2a1a0a" stroke="#a020e0" stroke-width="1"/>
+  <!-- Slot labels -->
+  <text x="38" y="56" font-family="Arial, sans-serif" font-size="6" fill="#d4a84a" text-anchor="middle">BASIC</text>
+  <text x="64" y="56" font-family="Arial, sans-serif" font-size="6" fill="#c8c8c8" text-anchor="middle">ADVANCED</text>
+  <text x="90" y="56" font-family="Arial, sans-serif" font-size="6" fill="#a020e0" text-anchor="middle">LEGENDARY</text>
+  <!-- Coin icons -->
+  <circle cx="38" cy="34" r="5" fill="#ffd700" stroke="#b8860b" stroke-width="1"/>
+  <circle cx="64" cy="34" r="5" fill="#ffd700" stroke="#b8860b" stroke-width="1"/>
+  <circle cx="90" cy="34" r="5" fill="#ffd700" stroke="#b8860b" stroke-width="1"/>
+</svg>

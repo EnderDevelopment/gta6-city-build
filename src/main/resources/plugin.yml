@@ -1,0 +1,43 @@
+name: CityBuild
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+author: EnderDevelopment
+description: City Build Server with GTA 6 elements, spawn crates and admin panel.
+commands:
+  coins:
+    description: Check your coins balance.
+    usage: /coins
+  coinspay:
+    description: Pay coins to another player.
+    usage: /coinspay <player> <amount>
+  coinsadmin:
+    description: Admin command to manage coins.
+    usage: /coinsadmin <add|remove|set> <player> <amount>
+    permission: citybuild.coins.admin
+  spawn:
+    description: Teleport to the spawn.
+    usage: /spawn
+  buycrate:
+    description: Open the crate shop at spawn.
+    usage: /buycrate
+  crateshop:
+    description: Open the crate purchase menu.
+    usage: /crateshop
+  adminpanel:
+    description: Open the admin panel.
+    usage: /adminpanel
+  wanted:
+    description: Show your wanted level.
+    usage: /wanted
+  setwanted:
+    description: Set a player's wanted level.
+    usage: /setwanted <player> <level>
+    permission: citybuild.admin
+permissions:
+  citybuild.coins.admin:
+    description: Allows managing coins.
+    default: op
+  citybuild.admin:
+    description: Admin panel access.
+    default: op

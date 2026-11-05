@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <!-- Admin Panel - Command block -->
+  <rect x="2" y="2" width="28" height="28" fill="#b0b0b0"/>
+  <!-- Grid pattern -->
+  <rect x="4" y="4" width="10" height="10" fill="#909090"/>
+  <rect x="18" y="4" width="10" height="10" fill="#c8c8c8"/>
+  <rect x="4" y="18" width="10" height="10" fill="#c8c8c8"/>
+  <rect x="18" y="18" width="10" height="10" fill="#909090"/>
+  <!-- Red highlights -->
+  <rect x="4" y="4" width="10" height="2" fill="#d03030"/>
+  <rect x="18" y="4" width="2" height="10" fill="#d03030"/>
+  <rect x="4" y="26" width="10" height="2" fill="#d03030"/>
+  <rect x="26" y="18" width="2" height="10" fill="#d03030"/>
+  <!-- Command symbol (~) -->
+  <rect x="13" y="13" width="6" height="2" fill="#ffd700"/>
+  <rect x="14" y="15" width="4" height="2" fill="#ffd700"/>
+  <rect x="13" y="17" width="6" height="2" fill="#ffd700"/>
+</svg>

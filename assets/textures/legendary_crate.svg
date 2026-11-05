@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <!-- Legendary Crate - Ender chest with purple glow -->
+  <rect x="2" y="6" width="28" height="20" fill="#2a0a3a"/>
+  <rect x="2" y="6" width="28" height="4" fill="#3a1050"/>
+  <rect x="8" y="4" width="16" height="4" fill="#321048"/>
+  <rect x="8" y="4" width="16" height="2" fill="#3a1050"/>
+  <!-- Purple glow frame -->
+  <rect x="4" y="8" width="24" height="2" fill="#6a20a0"/>
+  <rect x="4" y="22" width="24" height="2" fill="#6a20a0"/>
+  <rect x="4" y="10" width="2" height="12" fill="#6a20a0"/>
+  <rect x="26" y="10" width="2" height="12" fill="#6a20a0"/>
+  <!-- Inner purple core -->
+  <rect x="6" y="10" width="20" height="12" fill="#4a1a70"/>
+  <!-- Ender eye -->
+  <rect x="14" y="14" width="4" height="4" fill="#9010d0"/>
+  <rect x="15" y="15" width="2" height="3" fill="#c040ff"/>
+  <!-- Glow particles -->
+  <rect x="8" y="12" width="2" height="2" fill="#9010d0"/>
+  <rect x="22" y="18" width="2" height="2" fill="#9010d0"/>
+  <rect x="10" y="20" width="2" height="2" fill="#a020e0"/>
+</svg>
